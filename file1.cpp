@@ -1,5 +1,8 @@
 #include<iostream.h>
 int main()
-cout<<"welcome";
+{
+  
+cout<<"\n";
+cout<<"Most welcome";
 return 0;
 }
